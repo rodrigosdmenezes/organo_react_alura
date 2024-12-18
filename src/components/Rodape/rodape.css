@@ -1,0 +1,21 @@
+.roda-pe{
+    background-color: #6278F7;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.roda-pe-imagens{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.roda-pe-imagens img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.roda-pe text{
+    color: #fff;
+}
